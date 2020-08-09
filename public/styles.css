@@ -1,0 +1,68 @@
+body{
+    background-color: #ffa36c;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.full{
+    padding-top: 150px;
+    overflow: hidden;
+}
+input{
+    width: 50%;
+    box-sizing: border-box;
+    height: 40px;
+}
+/* input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+   
+  } */
+  
+a{
+    color: black;
+}
+.mailLabel{
+    padding-right: 40px;
+    /* font-weight: bold; */
+}
+.register{
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.button {
+    background-color: #fce2ce;
+    border: none;
+    color: black;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
+.rBtn{
+    padding-top: 10px;
+    margin-left: 80px;
+}
+.btn{
+    padding-top: 10px;
+    margin-left: 80px;
+}
+.button:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+    border-radius: -20px;
+}
+.rMail{
+    padding-right: 45px;
+}
+.rPassword{
+    padding-right: 7px;
+}
+.loginTitle{
+    padding-left: 90px;
+}
+.registerTitle{
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
